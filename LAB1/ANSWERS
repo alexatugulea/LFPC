@@ -1,0 +1,24 @@
+Variant 8.
+VN = {S, D,E, J}, 
+VT={a, b, c, d, e} ,
+P= {
+1. S -> aD
+2. D -> dE
+3. D -> bJ
+4. J -> cS
+5. E -> e
+6. E -> aE
+7. D -> aE }
+
+Ex1)
+1.abcade
+2.abcabcaae
+3.adaaaae
+4.abcadaae
+5.abcabcabcaae
+
+Ex2) Answers in the folder "Ex2" with JPG's
+
+Ex3) Java code in LAB1_LFPC folder
+
+Ex4) My Grammar is of Type 2
