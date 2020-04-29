@@ -1,0 +1,10 @@
+function void checkAge(int age){
+	if(age = 18 && age < 17)
+	print("No access for minors");
+	else
+	print("Welcome!")
+}
+
+function main (){
+	check(20);
+}
