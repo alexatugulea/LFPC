@@ -1,0 +1,12 @@
+variable first = 1, second = 2;
+variable third, fourth, result1, result2;
+
+function arithmeticMean(num1 num2)
+      variable aM = (num1 + num2)/2;
+
+arithmeticMean(2.3, 3.2);
+
+for i from 1 to 20
+    result1 = pow(i, 2) + sqrt(i);
+
+if first < 0 execute first = first + 10  else first = first * 10;
